@@ -1,15 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
 *{
     margin: 0;
     padding: 0;
     list-style: none;
     text-decoration: none;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Kanit', sans-serif;
     box-sizing: border-box;
 }
 
 body{
     background: #fefefe;
+    font-family: 'Kanit', sans-serif;
 }
+
 
 header{
     width: 100%;
@@ -113,7 +117,7 @@ header{
 }
 
 .page {
-    background-color: #ffffff;
+    background-color: #f3f3f3;
     width: 1200px;
     border-radius: 25px;
     padding-bottom: 15px;
